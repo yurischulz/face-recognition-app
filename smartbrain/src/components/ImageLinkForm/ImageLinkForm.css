@@ -1,0 +1,11 @@
+.form {
+  background: url('ImageLinkForm.jpg');
+  background-size: 20%;
+  width: 700px;
+}
+
+.form button {
+  background-color: #7335a0;
+  font-size: 32px;
+  font-family: 'Cute Font', Courier, monospace;
+}
